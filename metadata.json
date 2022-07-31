@@ -1,0 +1,44 @@
+{
+  "name": "Infected Mob #2462",
+  "symbol": "IM",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://bafybeid66ozjdqsfxsaovgxteyc3gskdrcsfpku5lys5pwf63x55mvuiti.ipfs.dweb.link/2461.png?ext=png",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Paradise Valley"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Shredded Cyborg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Coins In Lean"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Malibu Dreams"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Solana Crown"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
